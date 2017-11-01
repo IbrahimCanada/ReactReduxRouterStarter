@@ -6,7 +6,7 @@ React Redux Router Starter App and API Server
 </div>
 
 ## Overview
-This is a simple starter kit that adds Redux and React Router v4 to a [Create React App](https://github.com/facebookincubator/create-react-app) project. It servers It is opinionated in the way the components and containers are structured, as well as how reducers and actions are organized as well e.g: putting all container reducers, actions and action types within their container directory instead of putting all reducers, actions and action types in three different directories.
+This is a simple starter kit that adds Redux and React Router v4 to a [Create React App](https://github.com/facebookincubator/create-react-app) project. It is opinionated in the way the components and containers are structured, as well as how reducers and actions are organized as well e.g: putting all container reducers, actions and action types within their container directory instead of putting all reducers, actions and action types in three different directories.
 
 Uses the latest Create React App and other package versions.
 
