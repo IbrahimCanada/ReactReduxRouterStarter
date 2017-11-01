@@ -14,7 +14,7 @@ Client and Server are separate but I included the server files for reference. If
 
 Code is linted using a mix of rules from the [Standard](https://github.com/standard/standard) and [Airbnb](https://github.com/airbnb/javascript) JavaScript style guides.
 
-#Client
+# Client
 It currently implements an e-commerce shopping cart, where a user can add or remove items (books) from the store. A client can add them to his/her cart and perform a "checkout".
 
 - Global state management handled by Redux. Consuming and updating a backend API, and passing both props and actions down from containers to components. 
